@@ -1,0 +1,167 @@
+/* fieldset{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center;
+} */ */
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #f7f7f7;
+   
+}
+
+@font-face {
+    font-family: harshan;
+    src: url(/asset/font/klavika-bold.otf);
+}
+
+/* .box{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+} */
+
+.nav{
+   
+    background-color: #3B5998;
+    /* width: 100vw;
+    height: 100px; */
+    /* position: absolute; */
+    display: flex;
+
+
+   
+
+    /* .form{
+        position: relative;
+        top: 10px;
+        left: 50px;
+    } */
+}
+
+.logo{
+    
+        padding: 20px;
+        color: white;
+        /* text-align: left; */
+        font-family: harshan;
+        position: relative;
+        /* top: 100px;
+        left: 30px; */
+        /* padding-left: 200px; */
+    
+       
+
+
+}
+
+.username {
+    margin-left: 50vw;
+    width: 23vh;
+    height: 4vh;
+    display: grid;
+    padding-top: 10px;
+}
+.password{
+    display: grid;
+    width: 23vh;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.password a{
+    padding-top: 10px;
+}
+.login{
+    /* padding-right: 50px; */
+    /* padding-top: 28px; */
+    background-color: #8b9dc3;
+    /* padding-top: 10px; */
+    margin-top: 48px;
+    margin-left: 20px;
+}
+
+.password a{
+    text-decoration: none;
+    color: #8b9dc3;
+    font-family: arial;
+}
+
+.box2{
+    /* background-color: #f7f7f7; */
+    position: relative;
+    top: 10px;
+    width: 100vh;
+    padding: 50px;
+}
+
+
+
+#account{
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 30px;
+}
+
+.box4{
+    /* background-color: #f7f7f7; */
+    position: absolute;
+    top: 10px;
+    width: 100vh;
+    left: 100vh;
+    top: 20vh;
+    text-align: center;
+}
+
+.one{
+    width: 360px;
+    height: 4vh;
+}
+
+.two{
+    width: 170px;
+    height: 4vh;
+}
+
+
+/* #login{
+    background-color: #3B5999;
+    color: white;
+    border-radius: 5px ;
+} */
+
+h2{
+    color: #3B5998;
+}
+
+span{
+    color: #3B5999;
+}
+
+#large{
+    font-size: larger;
+}
+
+#medium{
+    font-size: medium;
+}
+
+#small{
+    font-size: x-small;
+}
+
+/* #tab1{
+    width: 100vw;
+    height: 20vh;
+} */
+
+color{
+    color: #3b5998	(59,89,152)
+#8b9dc3	(139,157,195)
+#dfe3ee	(223,227,238)
+#f7f7f7	(247,247,247)
+#ffffff	(255,255,255)
+}
